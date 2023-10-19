@@ -2,7 +2,7 @@
 
 # Hey, thanks for visitng my GitHub profile! <img src="https://github.com/smhuda/smhuda/blob/main/wave.gif" width="30px">
 
-My name Syed and I'm a Application Security Professional and Penetration Tester living in Ireland.  I would love to have feedback! Feel free to contact me through my Twitter handle on [![Twitter][1.2]][1] any improvements or questions that you might have.
+My name Syed and I'm a Application Security and DevSecOps Professional as well as a Penetration Tester living in Ireland.  I would love to have feedback! Feel free to contact me through my Twitter handle on [![Twitter][1.2]][1] any improvements or questions that you might have.
 
 ## &#x270d; Blog & Writing
 
