@@ -4,6 +4,19 @@
 
 My name Syed and I'm a Application Security and DevSecOps Professional as well as a Penetration Tester living in Ireland.  I would love to have feedback! Feel free to contact me through my Twitter handle on [![Twitter][1.2]][1] any improvements or questions that you might have.
 
+  <br/>
+</em></p>
+
+<div align="center" style="vertical-align:top;">
+  <a href="https://www.buymeacoffee.com/smhuda" target="blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klezvirus" /></a>
+<div align="center" style="vertical-align:bottom;">
+
+  <a href="https://twitter.com/global404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="global404" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/smhuda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smhuda" height="30" width="40" /></a>
+  <a href="https://smhuda.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smhuda" height="30" width="40" /></a>
+</div>
+</div>
+
 ## &#x270d; Blog & Writing
 
 Apart from being an avid cybersecurity enthusiant and passionate about research, I also maintain website where you can find content relating to cybersecurity as well as some of my secret food recipes and some of my noob photography skills at [smhuda.com](https://smhuda.com/).
